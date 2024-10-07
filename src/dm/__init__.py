@@ -1,0 +1,1 @@
+from .afhq import AFHQDM
